@@ -1,0 +1,5 @@
+ticket_id,description,tag
+101,I cannot log in to my account,Login Issue
+102,Billing issue with my last invoice,Billing
+103,Website loads very slowly,Performance
+104,Need help setting up my profile,Onboarding
